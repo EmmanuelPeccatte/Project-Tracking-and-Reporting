@@ -79,6 +79,7 @@ Interactive dashboard for managers to analyze team performance.
 No training required.
 
 **A. Workload by Employee**
+
 <img width="524" height="401" alt="image" src="https://github.com/user-attachments/assets/b9ec77b1-e574-4e85-81fd-f1a7cd6c4fb5" />
 
 **B. Completion Status**
